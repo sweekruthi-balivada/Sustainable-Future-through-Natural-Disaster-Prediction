@@ -6,13 +6,37 @@ Machine Learning Project, Python
 ## Abstract
 This ML project, entitled "Sustainable Futures through Natural Disaster Prediction," embarks on a transformative quest towards promoting heightened resilience and sustainable practices globally. The primary goal of this project is to promote the preservation of sustainability. By employing predictive techniques, we strive to reduce the detrimental impact that disasters have on ecosystems, natural resources, and the environment. The objective aligns with worldwide endeavors in addressing climate change. Through our machine learning models such as K-means neighbor, Random Forest, Support Vector Machine (SVM), and Naive Bayes are used as early warning indicators, thus facilitating proactive approaches for disaster preparedness and response strategies. By thoroughly analyzing historical data on diverse types of calamities such as earthquakes, hurricanes, floods, and wildfires and by employing feature engineering, and machine learning algorithms our aim is to develop precise prediction models that offer practical insights for effective action. We will meticulously assess the performance of our prediction models in order to ensure their reliability and accuracy.
 
-##Report file name- Data_245_MachineLearning_Group_6
-##CSV file - natural_disasters_dataset.csv
-##Complete code file name - Data_245_MachineLearning_Group_6
-##New unseen dataset file name - new_unseen_dataset.csv 
-##Saved Model Joblib drive link -https://drive.google.com/drive/u/1/folders/1ND3XnuUrvSIkmtFcO-zI6ovv2ykQyWp3
+**Technical Report**<br>
+Data_245_MachineLearning_Group_6
 
-##Table of Contents
+**Presentation Slides**<bR>
+Data_245_MachineLearning_Group_6_Slides.pdf
+
+**Industry Case study**<br>
+DATA_245_Industry_CaseStudy_Group_6.pd
+
+**Significant Paper Blog**<br>
+Significant_paper_slides_Balivada-Lagisetty-Sha-Vichare.pdf https://medium.com/@sarahsha4991/training-and-assessing-classification-rules-with-imbalanced-data-69e9c50765f3
+
+**CSV file**<br>
+natural_disasters_dataset.csv
+
+**Preprocessed dataset**<br>
+preprocessed_data.csv
+
+**Code Implementation**<br>
+Data_245_MachineLearning_Group_6
+
+**New unseen dataset**<br>
+new_unseen_dataset.csv
+
+**Testing saved model**<Br>
+Data_245_MachineLearning_Group_6_Testing_the_saved_model.ipynb
+
+**Saved Model Joblib drive link**<br>
+https://drive.google.com/drive/u/1/folders/1ND3XnuUrvSIkmtFcO-zI6ovv2ykQyWp3
+
+## Table of Contents
 
 1.Data: We obtained a diverse dataset of historical natural disasters from Kaggle. Metadata provided information such as timestamps, location details, and event characteristics
 
